@@ -88,9 +88,6 @@ app.get("/", (req, res) => {
   res.send("🚀 Welcome to AI-Divie API powered by Purushottam Gurjar!");
 });
 
-app.use((req, res) => {
-  res.status(404).send("❌ Route not found. This is AI-Divie backend.");
-});
 
 app.get("/:slug",async(req,res)=>{
     const prompt=req.params.slug;
