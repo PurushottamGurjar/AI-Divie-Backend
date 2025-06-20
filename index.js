@@ -64,8 +64,8 @@ async function runChat(prompt) {
 
 const app=express();
 const AllowedOrigins=[
-    "https://purushottam-gurjar.vercel.app/",
-    "https://ai-divie-purush-gurjar.vercel.app/"
+    "https://purushottam-gurjar.vercel.app",
+    "https://ai-divie-purush-gurjar.vercel.app"
 ]
 
 app.use(cors({
