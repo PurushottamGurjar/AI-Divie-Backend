@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "This is the basic server for the RestFul Api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Purushottam Gurjar",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.10"
+  }
+}
