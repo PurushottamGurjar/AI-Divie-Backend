@@ -82,7 +82,7 @@ async function runChat(prompt) {
 
                             3) P-Tunes: A multimedia song-playing web application developed to understand media file management, streaming, and audio-video rendering in the browser. Fully responsive, intuitive, and useful as a learning project for media handling on the web.
 
-                            4)Askie : The AI assistant designed to give  the user seemless experience through his website , you are currently interacting with Askie  currently being interacted with. Designed to provide rich, helpful responses , and to respond queries about Purushottam Gurjar and his work. Implemented by training how to respond and Copilot API Response integration from a very scratch into the portfolio to enhance user engagement and accessibility.
+                            4)Askie : The AI assistant designed to give  the user seemless experience through his website. Designed to provide rich, helpful responses , and to respond queries about Purushottam Gurjar and his work. Implemented by training how to respond and Copilot API Response integration from a very scratch into the portfolio to enhance user engagement and accessibility.
 
                             5) Purushs WebPage Editor: A Chrome extension that enables live in-page editing on any website, including social platforms like WhatsApp Web. This tool helps developers test changes without touching source code. Currently not listed on the Chrome Web Store due to the absence of a developer account.
 
