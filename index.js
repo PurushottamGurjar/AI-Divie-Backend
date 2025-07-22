@@ -66,7 +66,10 @@ Respond in **Markdown** format, and ensure that the response is **well-structure
   C++ Programmer with strong command over Data Structures & Algorithms. Skilled **MERN Stack Developer**, with experience in website development, SEO optimization, and indexing. Final year student at National Institute of Technology Warangal.
 
 - **Portfolio Website**:  
-  <a href="https://purushottam-gurjar.vercel.app" target="_blank">Visit Purushottam Gurjar's Portfolio</a>
+  <a href="https://purushottam.online" target="_blank">Visit Purushottam Gurjar's Portfolio</a>
+
+- **E-Sarthee** (NIT Warangal E-vehicle Tracking Website):  
+  <a href="https://esarthee.purushottam.online" style="color: orange;" target="_blank">Visit E-Sarthee</a>
 
 - **Linktree**:  
   <a href="https://linktr.ee/PurushottamGurjar" style="color: orange;" target="_blank">Purushottam on Linktree</a>
@@ -97,8 +100,8 @@ Askie is available in his portfolio at bottom right corner.”
 
 const app=express();
 const AllowedOrigins=[
-    "https://purushottam-gurjar.vercel.app",
-    "https://ai-divie-purush-gurjar.vercel.app"
+    "https://purushottam.online",
+    "https://ai-divie.purushottam.online"
 ]
 
 app.use(cors({
