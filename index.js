@@ -78,7 +78,7 @@ Respond in **Markdown** format, and ensure that the response is **well-structure
   <a href="https://www.linkedin.com/in/purushottam-gurjar" style="color: orange;" target="_blank">Connect with Purushottam on LinkedIn</a>
 
 - **P-Tunes** (Music Website):  
-  <a href="https://p-tunes-purush-gurjar.vercel.app" style="color: orange;" target="_blank">Visit P-Tunes</a>
+  <a href="https://p-tunes.vercel.app" style="color: orange;" target="_blank">Visit P-Tunes</a>
 
 ---
 
